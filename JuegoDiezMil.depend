@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1512084119 source:c:\clases\ml\mauricio molina\juegodiezmil\tirada.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1512084405 source:c:\clases\ml\mauricio molina\juegodiezmil\main.cpp
+	"tirada.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1512083595 c:\clases\ml\mauricio molina\juegodiezmil\tirada.h
+
+1512476097 source:c:\users\horacio bono\onedrive\mauricio molina\juegodiezmil\main.cpp
+	"tirada.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1512230253 c:\users\horacio bono\onedrive\mauricio molina\juegodiezmil\tirada.h
+
+1512475488 source:c:\users\horacio bono\onedrive\mauricio molina\juegodiezmil\tirada.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1512699645 source:c:\users\flia molina\desktop\juegodiezmil_si\main.cpp
+	"tirada.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1512230253 c:\users\flia molina\desktop\juegodiezmil_si\tirada.h
+
+1512698987 source:c:\users\flia molina\desktop\juegodiezmil_si\tirada.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
